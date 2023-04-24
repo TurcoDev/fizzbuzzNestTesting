@@ -1,6 +1,6 @@
 # Fizz Buzz en NestJS
 
-Implementación en NestJS de la https://kata-log.rocks/fizz-buzz-kata[kata Fizz Buzz] para una primera toma de contacto con el testing.
+Implementación en NestJS de la https://kata-log.rocks/fizz-buzz-kata para una primera toma de contacto con el testing.
 
 ## Instalación
 
